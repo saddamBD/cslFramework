@@ -1,0 +1,6 @@
+framework module cslFramework {
+  umbrella header "cslFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - cslFramework (1.0.0)
+
+DEPENDENCIES:
+  - cslFramework (from `../cslFramework/`)
+
+EXTERNAL SOURCES:
+  cslFramework:
+    :path: "../cslFramework/"
+
+SPEC CHECKSUMS:
+  cslFramework: 878c2e38629004f9241fc68d1c4b3e4ae6198d86
+
+PODFILE CHECKSUM: 88702ff6919e18b3b62686edb89fd52d23760df5
+
+COCOAPODS: 1.5.3
