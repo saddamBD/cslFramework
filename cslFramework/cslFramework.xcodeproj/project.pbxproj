@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8706B91F214A63FB0012E7F0 /* cslFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 8706B91D214A63FB0012E7F0 /* cslFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8706B926214A65840012E7F0 /* Apple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8706B925214A65840012E7F0 /* Apple.swift */; };
+		8706B964214A8BFE0012E7F0 /* Market.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8706B963214A8BFE0012E7F0 /* Market.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +17,7 @@
 		8706B91D214A63FB0012E7F0 /* cslFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = cslFramework.h; sourceTree = "<group>"; };
 		8706B91E214A63FB0012E7F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8706B925214A65840012E7F0 /* Apple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apple.swift; sourceTree = "<group>"; };
+		8706B963214A8BFE0012E7F0 /* Market.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Market.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 				8706B91D214A63FB0012E7F0 /* cslFramework.h */,
 				8706B91E214A63FB0012E7F0 /* Info.plist */,
 				8706B925214A65840012E7F0 /* Apple.swift */,
+				8706B963214A8BFE0012E7F0 /* Market.swift */,
 			);
 			path = cslFramework;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8706B926214A65840012E7F0 /* Apple.swift in Sources */,
+				8706B964214A8BFE0012E7F0 /* Market.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
